@@ -1,0 +1,9 @@
+Building MAPCOIN
+
+See doc/readme-qt.rst for instructions on building MAPCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MAPCOIN.
+
+See doc/build-*.txt for instructions on building MAPCOINd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MAPCOIN.
